@@ -9,7 +9,7 @@ void main()
 	scanf("%d", &a);
 
 	printf("두번쨰 계산할 값을 입력하세요 ==> ");
-	scanf("%d", &a);
+	scanf("%d", &b);
 
 	result = a + b;
 	printf(" %d + %d = %d \n", a, b, result);
