@@ -6,7 +6,7 @@ void main()
 
 
 	int a, b;
-	char c[10];
+	char c[3];
 
 	printf("입력진수 결정 <1>10 <2>16 <3>8 : ");
 	scanf("%d", &a);
